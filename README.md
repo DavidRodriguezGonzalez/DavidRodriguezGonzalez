@@ -1,34 +1,44 @@
-👨‍💻 ¡Hola! Soy [David Rodríguez]
+👨‍💻 ¡Hola! Soy David Rodríguez
+
 🚀 C# Developer | .NET Developer | Backend Enthusiast
 
 Desarrollador apasionado por la tecnología, la programación y la creación de soluciones eficientes, escalables y bien estructuradas. Mi principal enfoque es el ecosistema C# y .NET, disfrutando de aprender nuevas tecnologías y afrontar nuevos retos.
 
 🧑‍💻 Sobre mí
+
 💻 Desarrollador especializado en C# y .NET.
+
 ⚙️ Interesado en arquitectura de software y desarrollo backend.
+
 🧠 Siempre aprendiendo y mejorando mis habilidades.
+
 🔍 Me gusta escribir código limpio, mantenible y eficiente.
+
 🚀 Apasionado por crear proyectos que aporten valor.
+
 🛠️ Tecnologías y herramientas
+
 Lenguajes
 
-C#, VB, SQL, JavaScript
+C#, VB, SQL, JavaScript, HTMl, CSS.
 
 Frameworks y tecnologías
 
-.NET, ASP.NET Core ,Entity Framework ,REST API
+.NET, ASP.NET Core, Entity Framework, REST API, LINQ
 
 Herramientas
 
 Visual Studio, VS Code, Git, GitHub, SSMS
 
 📫 Contacto
-
 Si quieres colaborar, compartir ideas o simplemente hablar de tecnología, ¡no dudes en contactar conmigo!
 
 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/david-rodr%C3%ADguez-gonz%C3%A1lez-76aa45a4/)
+
 📧 Email: rodriguez.gonzalez.david@gmail.com
+
 🐙 GitHub: [Mi perfil](https://github.com/DavidRodriguezGonzalez/)
+
 
 <!--
 # David Rodríguez González
